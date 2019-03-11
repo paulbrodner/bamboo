@@ -2,3 +2,4 @@
 
 set -e 
 echo "mkay"
+echo "end script"
